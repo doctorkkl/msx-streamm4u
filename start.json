@@ -1,16 +1,25 @@
 {
   "type": "media",
   "title": "StreamM4u · Movies · TV · Anime",
+  "layout": "poster",  
   "items": [
     {
-      "title": "Latest Movies",
+      "title": "🎬 Latest Movies",
       "type": "link",
-      "link": "https://streamm4u.ws/latest-movies.html"
+      "link": "https://streamm4u.ws/latest-movies.html",
+      "image": "https://img.icons8.com/color/96/movie-projector.png"
     },
     {
-      "title": "TV Series",
+      "title": "📺 TV Series",
       "type": "link",
-      "link": "https://streamm4u.ws/tv-series.html"
+      "link": "https://streamm4u.ws/tv-series.html",
+      "image": "https://img.icons8.com/color/96/tv.png"
+    },
+    {
+      "title": "🌀 Anime",
+      "type": "link",
+      "link": "https://streamm4u.ws/anime.html",
+      "image": "https://img.icons8.com/color/96/anime.png"
     }
   ]
 }
