@@ -1,0 +1,16 @@
+{
+  "type": "media",
+  "title": "StreamM4u · Movies · TV · Anime",
+  "items": [
+    {
+      "title": "Latest Movies",
+      "type": "link",
+      "link": "https://streamm4u.ws/latest-movies.html"
+    },
+    {
+      "title": "TV Series",
+      "type": "link",
+      "link": "https://streamm4u.ws/tv-series.html"
+    }
+  ]
+}
